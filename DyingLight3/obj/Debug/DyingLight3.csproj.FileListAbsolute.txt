@@ -1,0 +1,14 @@
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\bin\Debug\DyingLight3.exe.config
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\bin\Debug\DyingLight3.exe
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\bin\Debug\DyingLight3.pdb
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\obj\Debug\DyingLight3.csproj.AssemblyReference.cache
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\obj\Debug\DyingLight3.Form1.resources
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\obj\Debug\DyingLight3.Properties.Resources.resources
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\obj\Debug\DyingLight3.csproj.GenerateResource.cache
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\obj\Debug\DyingLight3.csproj.CoreCompileInputs.cache
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\obj\Debug\DyingLight3.exe
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\obj\Debug\DyingLight3.pdb
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\bin\Debug\DyingLight3.exe.manifest
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\bin\Debug\DyingLight3.application
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\obj\Debug\DyingLight3.exe.manifest
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\obj\Debug\DyingLight3.application

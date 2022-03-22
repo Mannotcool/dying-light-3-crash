@@ -1,0 +1,14 @@
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\obj\x64\Release\DyingLight3.Form1.resources
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\obj\x64\Release\DyingLight3.Properties.Resources.resources
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\obj\x64\Release\DyingLight3.csproj.GenerateResource.cache
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\obj\x64\Release\DyingLight3.csproj.CoreCompileInputs.cache
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\obj\x64\Release\DyingLight3.csproj.AssemblyReference.cache
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\bin\x64\Release\Dying Light 3 (Ultimate Edition).exe.config
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\bin\x64\Release\Dying Light 3 (Ultimate Edition).exe.manifest
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\bin\x64\Release\Dying Light 3 (Ultimate Edition).application
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\bin\x64\Release\Dying Light 3 (Ultimate Edition).exe
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\bin\x64\Release\Dying Light 3 (Ultimate Edition).pdb
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\obj\x64\Release\Dying Light 3 (Ultimate Edition).exe.manifest
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\obj\x64\Release\Dying Light 3 (Ultimate Edition).application
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\obj\x64\Release\Dying Light 3 (Ultimate Edition).exe
+C:\Users\nicks\source\repos\DyingLight3\DyingLight3\obj\x64\Release\Dying Light 3 (Ultimate Edition).pdb
